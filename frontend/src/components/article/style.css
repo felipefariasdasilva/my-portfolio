@@ -1,0 +1,18 @@
+.article{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 10rem;
+}
+
+.new-article-button{
+    width: 10rem;
+    margin: 2rem 0;
+}
+
+.new-article-text-area{
+    width: 35rem;
+}
+
+.action-buttons{
+    margin-left: 1rem;
+}

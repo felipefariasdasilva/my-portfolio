@@ -1,0 +1,13 @@
+.container{
+    height: 100vh;
+    background-color: #CCDDDD;
+}
+
+.header{
+    margin: 0 0;
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+}

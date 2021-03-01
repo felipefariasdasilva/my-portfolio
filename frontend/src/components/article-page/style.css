@@ -1,0 +1,16 @@
+.new-article-button{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    margin: 2rem 2rem;
+}
+
+.article-body{
+    background-color: white;
+    border: 1px solid #000;
+    box-shadow: 5px 5px #BBB;
+    padding: 2rem;
+    margin: 1rem 0;
+    width: 75rem;
+    height: 120rem;
+}

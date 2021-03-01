@@ -1,0 +1,58 @@
+.body-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    justify-content: center;
+    background-color: blue;
+}
+
+.card-presentation{
+    width: 50rem;
+    margin-top: 3rem;
+    box-shadow: 1px solid #000;
+}
+
+.portfolios{
+    display: flex;
+    flex-direction: row;
+    margin: 1rem 5rem 1rem 0rem;
+}
+
+.card-title{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-content-avatar{
+    margin: 2rem 2rem;
+    width: 7rem;
+    height: 7rem;
+}
+
+.portfolio-card{
+    margin: 0 1rem;
+}
